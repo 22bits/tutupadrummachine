@@ -1,2 +1,2 @@
 # tutupadrummachine
-Tutupá machine is a arduino based mechanical drum machine
+Tutupá machine is an arduino-based mechanical drum machine
